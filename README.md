@@ -1,6 +1,12 @@
 ## Hi there!
 
-Hi, I’m Mitvik Sihag, a B.Tech graduate from IIT Roorkee with a strong passion for software development. I specialize in Frontend Development using JavaScript and ReactJS, and have a solid foundation in C++, Data Structures, and Algorithms. I'm an Expert on Codeforces and a 5★ coder on CodeChef. I enjoy tackling complex problems and constantly strive to learn and grow in the tech space. Let’s connect and explore exciting opportunities!
+Hi, I’m Mitvik Sihag, a B.Tech graduate from IIT Roorkee with a strong passion for software development. 
+
+I specialize in Frontend Development using JavaScript and ReactJS, and have a solid foundation in C++, Data Structures, and Algorithms. I'm an Expert on Codeforces and a 5★ coder on CodeChef. I enjoy tackling complex problems and constantly strive to learn and grow in the tech space.
+
+Reach out to me at:
+- 🕊️ Twitter: [MitvikSihag](https://x.com/MitvikSihag)
+- 📫 Email: [mitvik.sihag2003@gmail.com](mitvik.sihag2003@gmail.com)
 
 <!--
 **MitvikSihag/MitvikSihag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
