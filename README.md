@@ -1,6 +1,6 @@
 ## Hi there!
 
-Hi, I’m Mitvik Sihag, a B.Tech graduate from IIT Roorkee with a strong passion for software development. 
+Hi, I’m Mitvik Sihag, a B.Tech graduate from @[iitroorkee](https://www.iitr.ac.in/) with a strong passion for software development. 
 
 I specialize in Frontend Development using JavaScript and ReactJS, and have a solid foundation in C++, Data Structures and Algorithms. I'm an Expert on Codeforces and a 5★ coder on CodeChef. I enjoy tackling complex problems and constantly seek opportunities to learn and grow in the tech space.
 
