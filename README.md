@@ -6,7 +6,7 @@ I specialize in Frontend Development using JavaScript and ReactJS, and have a so
 
 Reach out to me at:
 - 🕊️ Twitter: [MitvikSihag](https://x.com/MitvikSihag)
-- 📫 Email: [mitvik.sihag2003@gmail.com](mailto:mitvik.sihag2003@gmail.com)
+- 📫 Email: [mitvik.sihag2003@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=mitvik.sihag2003@gmail.com)
 
 <!--
 **MitvikSihag/MitvikSihag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
