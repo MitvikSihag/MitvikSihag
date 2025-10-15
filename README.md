@@ -1,6 +1,7 @@
 ## Hi there!
 
-I’m Mitvik Sihag, a B.Tech graduate from IIT Roorkee with a strong passion for software development. I am currently working as a Software Developer at[CARS24](https://www.cars24.com/)
+I’m Mitvik Sihag, a B.Tech graduate from IIT Roorkee with a strong passion for software development. 
+I am currently working as a Software Developer at [CARS24](https://www.cars24.com/)
 
 Reach out to me at:
 - 🕊️ Twitter: [MitvikSihag](https://x.com/MitvikSihag)
